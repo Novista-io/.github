@@ -1,0 +1,6 @@
+tools/fonts/
+preview.html
+__pycache__/
+.DS_Store
+.claude/
+view.html
